@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/fileXML/bin/Debug/net7.0/fileXML
+/Users/macos/Desktop/Operator/fileXML/bin/Debug/net7.0/fileXML.deps.json
+/Users/macos/Desktop/Operator/fileXML/bin/Debug/net7.0/fileXML.runtimeconfig.json
+/Users/macos/Desktop/Operator/fileXML/bin/Debug/net7.0/fileXML.dll
+/Users/macos/Desktop/Operator/fileXML/bin/Debug/net7.0/fileXML.pdb
+/Users/macos/Desktop/Operator/fileXML/obj/Debug/net7.0/fileXML.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/fileXML/obj/Debug/net7.0/fileXML.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/fileXML/obj/Debug/net7.0/fileXML.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/fileXML/obj/Debug/net7.0/fileXML.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/fileXML/obj/Debug/net7.0/fileXML.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/fileXML/obj/Debug/net7.0/fileXML.dll
+/Users/macos/Desktop/Operator/fileXML/obj/Debug/net7.0/refint/fileXML.dll
+/Users/macos/Desktop/Operator/fileXML/obj/Debug/net7.0/fileXML.pdb
+/Users/macos/Desktop/Operator/fileXML/obj/Debug/net7.0/fileXML.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/fileXML/obj/Debug/net7.0/ref/fileXML.dll

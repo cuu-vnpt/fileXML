@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <book>
+    <title>The Autobiogarphy of benjamin Franklin</title>
+    <price>8.99</price>
+  </book>
+  <book>
+    <title>Đắc nhân tâm</title>
+    <price>123.5</price>
+  </book>
+  <book>
+    <title>Dac Nhan Tam</title>
+    <price>123.5</price>
+  </book>
+  <book>
+    <title>Đắc Nhân Tâm</title>
+    <price>123.5</price>
+  </book>
+</bookstore>
